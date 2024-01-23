@@ -1,0 +1,7 @@
+1) Junio C Hamano
+2) 3 Blobs, 4 trees, 5 commits
+4) We want to get to get the information of "commit 2021-02-28 - l10n: de.po: Update German 
+translation for Git v2.31.0"
+5) Documentation/RelNotes/2.31.1.txt
+6) 7
+
